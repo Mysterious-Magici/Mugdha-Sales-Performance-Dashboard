@@ -16,7 +16,7 @@ Developed a comprehensive Sales Dashboard to track **₹164M in Revenue** and **
 
 ###  Business Impact
 
-* Identified a **40.03% volume surge** compared to the previous year.
+* Identified a **13.03% volume surge** compared to the previous year.
 * Isolated underperforming categories (e.g., Tables) to assist in margin optimization.
 * Enabled weekly trend tracking to identify peak sales windows.
 
