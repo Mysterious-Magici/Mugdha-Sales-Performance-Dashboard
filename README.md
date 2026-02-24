@@ -24,5 +24,5 @@ Developed a comprehensive Sales Dashboard to track **₹164M in Revenue** and **
 
 🔗 **Dataset Source:** https://academy.datawithbaraa.com/l/digital_download/930713/tableau-course-materials
 Screenshot: 
- ![Dashboard]()
+ ![Dashboard](https://github.com/Mysterious-Magici/Mugdha-Sales-Performance-Dashboard/blob/main/Dashboard%20Picture.png)
 
